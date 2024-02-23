@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d71bee2-fde5-4154-a621-8c7af0230e43" name="更改" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/app.4Tn7_lFV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.qaRDgsnG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.N4iIgRWy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chunks/theme.CRulFGph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/luogan.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/java/项目完整流程.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/java/项目完整流程.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/linux/xshell常用命令.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/linux/xshell常用命令.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app/ionic.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/ionic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app/安卓证书生成.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/安卓证书生成.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app/无线调试.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/无线调试.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/ast抽象语法树.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/ast抽象语法树.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/rollup.config配置记录.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/rollup.config配置记录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/css/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/css/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/css/通用样式.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/css/通用样式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/css/颜色对应.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/css/颜色对应.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/javascript/clipboardData复制对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/clipboardData复制对象.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/javascript/代码优化.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/代码优化.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/javascript/命名.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/命名.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/javascript/正则.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/正则.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/javascript/语法知识.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/语法知识.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/npm/packagejson文件记录.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/npm/packagejson文件记录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/npm/pnpm配置.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/npm/pnpm配置.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/other/doc转html.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/other/doc转html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/other/安全.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/other/安全.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/other/知识点记录.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/other/知识点记录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/software/jetBrains破解.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/software/jetBrains破解.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/svn/使用js执行svn注意.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/svn/使用js执行svn注意.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/temp/ant-design-vue.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/temp/ant-design-vue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/temp/iview.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/temp/iview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/temp/pinna.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/temp/pinna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/typescript/typescript-config记录.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/typescript/typescript-config记录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vue/API介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/API介绍.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/2023/avi视频播放.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/2023/avi视频播放.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/2024/antd偶发多选下拉框不显示箭头图标，偶尔显示字符Â.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/2024/antd偶发多选下拉框不显示箭头图标，偶尔显示字符Â.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/2024/iview国际化Bug.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/2024/iview国际化Bug.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/2024/谷歌和火狐复制差异.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/2024/谷歌和火狐复制差异.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/npm/esbuild错误.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/npm/esbuild错误.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/npm/资源过期.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/npm/资源过期.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/svn/执行报错.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/svn/执行报错.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem/typescript/pnpm monorepo vite项目打包问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/problem/typescript/pnpm monorepo vite项目打包问题.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2clBvVwx1rvuheTGOao3rI88zd4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/code/myGithub/luogan.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\code\myGithub\luogan.github.io" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9d71bee2-fde5-4154-a621-8c7af0230e43" name="更改" comment="" />
+      <created>1708676516198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708676516198</updated>
+      <workItem from="1708676517277" duration="1979000" />
+      <workItem from="1708683081942" duration="144000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1708676705138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676705138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1708682668280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708682668280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
