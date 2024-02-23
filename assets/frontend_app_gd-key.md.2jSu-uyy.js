@@ -1,0 +1,5 @@
+import{_ as a,c as e,o as s,U as n}from"./chunks/framework.Ukhmux41.js";const k=JSON.parse('{"title":"高德key","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/app/gd-key.md","filePath":"frontend/app/gd-key.md"}'),t={name:"frontend/app/gd-key.md"},p=n(`<h1 id="高德key" tabindex="-1">高德key <a class="header-anchor" href="#高德key" aria-label="Permalink to &quot;高德key&quot;">​</a></h1><p>【生产】</p><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>web</span></span>
+<span class="line"><span>key：be127c512c563d526f0aed4d7aaeeb23</span></span>
+<span class="line"><span>安全密钥：4697a51bfee0ba20a3ee7b6559844d93</span></span>
+<span class="line"><span>app</span></span>
+<span class="line"><span>key：b71389053e0f6bca89ccdf046639bf2a</span></span></code></pre></div>`,3),c=[p];function o(d,i,l,r,_,h){return s(),e("div",null,c)}const b=a(t,[["render",o]]);export{k as __pageData,b as default};
